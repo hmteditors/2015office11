@@ -1,14 +1,14 @@
 project.ext {
 
-  textInventory="/vagrant/2015office11/editions/inventory.xml"
-  textArchive="/vagrant/2015office11/editions"
+  textInventory="/vagrant/2015office9/editions/inventory.xml"
+  textArchive="/vagrant/2015office9/editions"
 
     // Lists of index files to use in verification:
-    folioToImage = "/vagrant/2015office11/indices/venA-folioToImage.csv"
+    folioToImage = "/vagrant/2015office9/indices/venA-folioToImage.csv"
 
-    textToImage = "/vagrant/2015office11/indices/venA-textToImage-Iliad.csv"
-    textToFolio = "/vagrant/2015office11/indices/venA-textToFolio-Iliad.csv"
+    textToImage = "/vagrant/2015office9/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/2015office9/indices/venA-textToFolio-Iliad.csv"
 
-    scholiaInventories = "/vagrant/2015office11/collections/venA-exterior.csv,/vagrant/2015office11/collections/venA-intermarginal.csv,/vagrant/2015office11/collections/venA-interior.csv,/vagrant/2015office11/collections/venA-mainScholia.csv,/vagrant/2015office11/collections/venA-interlinear.csv"
+    scholiaInventories = "/vagrant/2015office9/collections/venA-exterior.csv,/vagrant/2015office9/collections/venA-intermarginal.csv,/vagrant/2015office9/collections/venA-interior.csv,/vagrant/2015office9/collections/venA-mainScholia.csv,/vagrant/2015office9/collections/venA-interlinear.csv"
     
 }
