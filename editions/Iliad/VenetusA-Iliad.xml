@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME EHERE</editor>
+        <editor>Michaela Knipp</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -18,8 +18,9 @@
   </teiHeader>
   <text>
     <body>
-      <div n="12">
-        <l n="1"> ὣς ὃ μὲν ἐν κλισίῃσι Μενοιτίου ἄλκιμος υἱὸς </l>
+      <div n="19">
+       <l n="76">τοῖσι δὲ καὶ μετέειπεν ἄναξ ἀνδρῶν Ἀγαμέμνων</l>
+       <l n="77">αὐτόθεν ἐξ ἕδρης, οὐδ᾽ ἐν μέσσοισιν ἀναστάς:</l>
       </div>
     </body>
   </text>
