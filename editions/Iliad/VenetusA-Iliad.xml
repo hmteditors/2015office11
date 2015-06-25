@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -21,9 +21,11 @@
       <div n="19">
        <l n="76">τοῖσι δὲ καὶ μετέειπεν ἄναξ ἀνδρῶν <persName n="urn:cite:hmt:pers.pers22"> Ἀγαμέμνων</persName></l>
         <l n="77">αὐτόθεν ἐξ έδρης, οὐδ᾽ ἐν μέσσοισιν ἀναστάς·</l>
-        <l n="78">ὦ φίλοι, ἥρωες <rs type="ethnic"  n="urn:cite:hmt:place.place272">Δαναοὶ</rs>. θεράποντες <persName n="urn:cite:hmt:pers.pers83">"Ἄρηος</persName>.</l>
+        <l n="78">ὦ φίλοι, ἥρωες <rs type="ethnic"  n="urn:cite:hmt:pers.pers66">Δαναοὶ</rs>. θεράποντες <persName n="urn:cite:hmt:pers.pers83">Ἄρηος</persName>.</l>
         <l n="79">ἑσταότος μὲν καλὸν ἀκούειν. οὐδὲ ἔοικεν</l>
         <l n="80">ὐββάλλειν· χαλεπὸν γὰρ. ἐπισταμενόν περ ἐόντα·</l>
+        <l n="81">ἀνδρων δ´ ἐν πολλῷ ὁμάδῳ. πῶς κέν τις ἀκοῦσαι.</l>
+        <l n="82">ἢ εἴποι· βλάβεται δὲ. λιγύς περ ἐὼν ἀγορητής·</l>
       </div>
     </body>
   </text>
