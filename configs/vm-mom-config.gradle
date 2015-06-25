@@ -2,6 +2,7 @@ project.ext {
 
   textInventory="/vagrant/2015office9/editions/inventory.xml"
   textArchive="/vagrant/2015office9/editions"
+  invSchema="/vagrant/2015office9/schemas/TextInventory.rng"
 
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/2015office9/indices/venA-folioToImage.csv"
