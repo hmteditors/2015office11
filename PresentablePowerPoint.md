@@ -159,10 +159,11 @@ Concerning the commentary by multiple editors and editions what implications are
 |Editor/Editon|Scholion|Translation|
 |:---|:---|:---|
 |*Venetus A*|*τοῖσι δὲ καὶ μετέειπεν ἂναξ ἀνδρων αγαμεμνον ἀυτοθεν ἐξ έδρης* **ούδ᾽έν μέσσοισι ἀναστάς**|*Lord of men Agamemnon spoke among them from his seat* **not standing** *in the middle*|
+|Messaliot and Chian (via Didymus)|τοῖσι δ' **ἀνισταμενος** μετέφη κρέιων αγαμεμνων· μηνίν ἀναστεναχων καὶ ὐφ έλκεος ἄλγεα πάσχων|And Lord Agamemnon **standing among** them spoke/Groaning over anger and suffering pains because of his wound|
 |Zenodotus|τοῖσι δ' **ἀνισταμενος** μετεφη κρεῖων αγαμεμνων|And Lord Agamemnon **standing** among them spoke|
 |Aristophanes|τοῖσι δὲ καὶ μετέειπεν ἂναξ ἀνδρων αγαμεμνων ἀυτοθεν ἐξ έδρης **ὁ δ᾽έν μέσσοισι ἀναστάς**|Lord of Men Agamemnon spoke among them **from his seat**, and he **stood up** in the middle of them|
 |Aristarchus (according to Kotiaeus?)|ἀυτόθι εξ έδρης|There from his seat|
-|Messaliot and Chian (via Didymus)|τοῖσι δ' **ἀνισταμενος** μετέφη κρέιων αγαμεμνων· μηνίν ἀναστεναχων καὶ ὐφ έλκεος ἄλγεα πάσχων|And Lord Agamemnon **standing among** them spoke/Groaning over anger and suffering pains because of his wound|
+
 
 ---
 **Commentary**
