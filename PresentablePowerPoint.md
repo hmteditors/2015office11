@@ -44,6 +44,8 @@ Contributors:
 
 [first4]:http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA253RN-0424.tif&RGN=0.2,0.2126,0.433,0.0872&WID=9000&CVT=JPEG
 
+-----
+
 τοῖσι δὲ καὶ μετέειπεν ἄναξ ἀνδρῶν
 αὐτόθεν ἐξ έδρης, οὐδ' ἐν μέσσοισιν ἀναστάς·
 ὦ φίλοι, ἥρωες Δαναοὶ θεράποντες
