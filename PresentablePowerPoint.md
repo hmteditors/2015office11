@@ -18,9 +18,6 @@ Contributors:
 
 ---
 ## Venetus A: Main Text Lines 1-4 Folio 253 recto
----
-
-[**Venetus A Main Text Lines 1-4**][f4l]
 
 ----
 
