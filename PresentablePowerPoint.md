@@ -17,7 +17,7 @@ Contributors:
 - Agamemnon's turn to apologize
 
 ---
-## Venetus A: Main Text Lines 1-4 Folio 253 recto
+## 253r 19.76-79
 
 ----
 
