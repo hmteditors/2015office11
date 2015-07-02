@@ -24,7 +24,7 @@
                             <p>τοῖσι δὲ καὶ <choice><abbr>μετέειπ</abbr><expan>μετέειπεν</expan></choice> ἄναξ <choice><abbr>ἀνδρω</abbr><expan>ἀνδρῶν</expan></choice><persName n="urn:cite:hmt.pers.pers22"><choice><abbr>αγαμε</abbr><expan>Ἀγαμέμνων</expan></choice></persName>· <choice><abbr>ἀυτοθ</abbr><expan>αὐτόθεν</expan></choice> ἐξ έδρης, ὅ δ' ἐν μέσσοισι ἀναστάς.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.76</p>
                         </div>
                         <div type="comment">
                             <p> <choice><abbr>ουτ</abbr><expan>οὕτω</expan></choice> καὶ παρα <persName n="urn:cite:hmt.pers.pers21"><choice><abbr>ἀριστοφα</abbr><expan>Άριστοφάνει</expan></choice></persName> ἐν δε τῇ <title>μασσαλιωτικῇ</title> καὶ <title>χίᾳ</title> <q>τοῖσι δ' <choice><abbr>ἀνισταμε</abbr><expan>ἀνιστάμενος</expan></choice> μετέφη κρείων <persName n="urn:cite:hmt.pers.pers22"><choice><abbr>αγαμε</abbr><expan>Ἀγαμέμνων</expan></choice></persName>· μῆνιν ἀναστενάχων καὶ ὐφ έλκεος ἄλγεα πάσχων</q>. οὕτως ὁ <persName n="urn:cite:hmt.pers.pers175">δίδυμοσ</persName>⁑</p>
@@ -32,13 +32,13 @@
                     </div>
                     <div n="2015office9_2" type="scholion"> 
                         <div type="lemma">
-                            <p></p>
+                            <p>αὐτόθεν ἐξ έδρης.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.77</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice><abbr>ζηνοδ</abbr><expan>ζηνόδοτος</expan></choice></persName> τοῦτον μὲν οὐκ έγραφεν τὸν δὲ προ αυτοῦ μόνον οὕτως, τοῖσι δ' <choice><abbr>ἀνιστα</abbr><expan>ἀνιστάμενος</expan></choice> μετεφη κρεῖων <persName n="urn:cite:hmt.pers.pers22"><choice><abbr>αγαμε</abbr><expan>Ἀγαμέμνων</expan></choice></persName>· ὁ δε αγαμεμνων οὐκ ορθῶς δημηγορεῖ δια τὴν τοῦ τραύματος ἀλγηδόνα διὸ επιφέρει ὑποτιμώμενος, καλὸν μεν εστιν ἑστῶτα δημηγορεῖν ὡς δῆλον ὅτι καθήμενος⁑</p>
                         </div>
                     </div>
                     <div n="2015office9_3" type="scholion">
