@@ -103,6 +103,9 @@ Concerning the commentary by multiple editors and editions what implications are
 
 ---
 
+- evident multiformity
+- puzzled editors
+- scholarly arguments of such a crucial moment in the *Iliad* could be reexamined
 
 
 
@@ -117,7 +120,7 @@ Concerning the commentary by multiple editors and editions what implications are
 
 - there is decidedly more left to research, explore, and learn about this particular example of multiformity
 - one particularly notable way in which we would like to continue this research is to expand our context 
-- additionally we think it would be particullarly valuable to do similar and reproducible research of this kind regarding minute multiform examples
+- additionally we think it would be particularly valuable to do similar and reproducible research of this kind regarding minute multiform examples
 - Venetus B also mentions the possibility of **word**, compeltely changing the argument. Where else do we see this?
 
 
