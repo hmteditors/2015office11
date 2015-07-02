@@ -12,32 +12,12 @@ Contributors:
 
 
 # Context : Venetus A 253r Lines 76-100
----
-
-[Venetus A 253r][f253rw]
-
-
-[![Venetus A 253r][folio253r]][folio253r]
-
-
-
-[folio253r]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA253RN-0424.tif&RGN=0.11,0.0601,0.816,0.8032&WID=9000&CVT=JPEG
-
-
-
-[f253rw]:http://www.homermultitext.org/hmt-digital/facs?urn=urn%3Acite%3Ahmt%3AmsA.253r
-
-
+- Agamemnon is wounded
+- Achilles stands and apologizes
+- Agamemnon's turn to apologize
 
 ---
-
-#In Greek and In Translation
-
----
-## Venetus A: Main Text Lines 1-4 Folio 253 recto
----
-
-[**Venetus A Main Text Lines 1-4**][f4l]
+## 253r 19.76-79
 
 ----
 
@@ -56,6 +36,10 @@ And Lord Agamemnon spoke among them there from his seat, not standing up in the 
 
 
 -----
+
+#What do the scholia say?
+
+----
 
 
 ###Scholia
@@ -119,6 +103,9 @@ Concerning the commentary by multiple editors and editions what implications are
 
 ---
 
+- evident multiformity
+- puzzled editors
+- scholarly arguments of such a crucial moment in the *Iliad* could be reexamined
 
 
 
@@ -133,7 +120,8 @@ Concerning the commentary by multiple editors and editions what implications are
 
 - there is decidedly more left to research, explore, and learn about this particular example of multiformity
 - one particularly notable way in which we would like to continue this research is to expand our context 
-- additionally we think it would be particullarly valuable to do similar and reproducible research of this kind regarding minute multiform examples
+- additionally we think it would be particularly valuable to do similar and reproducible research of this kind regarding minute multiform examples
+- Venetus B also mentions the possibility of **word**, compeltely changing the argument. Where else do we see this?
 
 
 
