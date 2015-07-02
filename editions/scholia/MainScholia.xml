@@ -21,16 +21,16 @@
                 <body>
                     <div n="2015office9_1" type="scholion">
                         <div type="lemma">
-                            <p>τοῖσι δὲ καὶ <choice><abbr>μετέειπ</abbr><expan>μετέειπεν</expan></choice> ἄναξ ἀνδρων <persName n="urn:cite:hmt.pers.pers22"><choice><abbr>αγαμε</abbr><expan>Ἀγαμέμνων</expan></choice></persName>· ἀυτοθεν ἐξ έδρης, ὅ δ᾽ἐν μέσσοισι ἀναστάς.</p>
+                            <p>τοῖσι δὲ καὶ <choice><abbr>μετέειπ</abbr><expan>μετέειπεν</expan></choice> ἄναξ <choice><abbr>ἀνδρω</abbr><expan>ἀνδρῶν</expan></choice><persName n="urn:cite:hmt.pers.pers22"><choice><abbr>αγαμε</abbr><expan>Ἀγαμέμνων</expan></choice></persName>· <choice><abbr>ἀυτοθ</abbr><expan>ἀυτόθεν</expan></choice> ἐξ έδρης, ὅ δ' ἐν μέσσοισι ἀναστάς.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
                         </div>
                         <div type="comment">
-                            <p> ουτω καὶ παρα ἀριστοφανει ἐν δε τῆι μασσαλιωτικῆι καὶ χίαι τοῖσι δ' ἀνισταμενος μετέφη κρείων αγαμεμνων· μηνιν ἀναστενάχων καὶ ὐφ έλκεος ἄλγεα πάσχων. οὕτως ὁ δίδυμοσ.</p>
+                            <p> <choice><abbr>ουτ</abbr><expan>οὕτω</expan></choice> καὶ παρα <persName n="urn:cite:hmt.pers.pers21"><choice><abbr>ἀριστοφα</abbr><expan>Άριστοφάνει</expan></choice></persName> ἐν δε τῇ <title>μασσαλιωτικῇ</title> καὶ <title>χίᾳ</title> <q>τοῖσι δ' <choice><abbr>ἀνισταμε</abbr><expan>ἀνιστάμενος</expan></choice> μετέφη κρείων <persName n="urn:cite:hmt.pers.pers22"><choice><abbr>αγαμε</abbr><expan>Ἀγαμέμνων</expan></choice></persName>· μῆνιν ἀναστενάχων καὶ ὐφ έλκεος ἄλγεα πάσχων</q>. οὕτως ὁ <persName n="urn:cite:hmt.pers.pers175">δίδυμοσ</persName>⁑</p>
                         </div>
                     </div>
-                    <div n="2015office9_2" type="scholion">
+                    <div n="2015office9_2" type="scholion"> 
                         <div type="lemma">
                             <p></p>
                         </div>
