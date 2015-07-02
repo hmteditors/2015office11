@@ -142,6 +142,3 @@ Each multiform has its own implications
 [253r]:http://www.homermultitext.org/hmt-digital/facs?urn=urn:cite:hmt:msA.253r
 [261v]:http://www.homermultitext.org/hmt-digital/facs?urn=urn:cite:hmt:msB.261v
 [Homeric Conversation]:http://chs.harvard.edu/CHS/article/display/5544
-
-
-
