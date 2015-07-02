@@ -11,15 +11,18 @@ Contributors:
 ---
 
 
-# Context : Venetus A 253r Lines 76-100
-- Agamemnon is wounded
+# Context : 
+## Venetus A 253r Lines 76-79
+
+---
+
+- Agamemnon comes to the assembly wounded (see Book 11)
 - Achilles stands and apologizes
 - Agamemnon's turn to apologize
 
 ---
 ## 253r 19.76-79
 
-----
 
 [![Main Text first 4 lines][first4]][first4]
 
@@ -30,7 +33,7 @@ Contributors:
 τοῖσι δὲ καὶ μετέειπεν ἄναξ ἀνδρῶν
 αὐτόθεν ἐξ έδρης, οὐδ' ἐν μέσσοισιν ἀναστάς·
 ὦ φίλοι, ἥρωες Δαναοὶ θεράποντες
-ἑσταότος μὲν καλὸν ἀκούειν. οὐδὲ ἔοικεν
+ἑσταότος μὲν καλὸν ἀκούειν. 
 
 And Lord Agamemnon spoke among them there from his seat, not standing up in the middle of them: “O friends, Danaan heroes, attendants of Ares, it is good to listen to one standing.
 
@@ -85,14 +88,19 @@ Concerning the commentary by multiple editors and editions what implications are
 |Aristophanes|τοῖσι δὲ καὶ μετέειπεν ἂναξ ἀνδρων αγαμεμνων ἀυτοθεν ἐξ έδρης **ὁ δ᾽έν μέσσοισι ἀναστάς**|Lord of Men Agamemnon spoke among them **from his seat**, and he **stood up** in the middle of them|
 |Aristarchus (according to Kotiaeus?)|ἀυτόθι εξ έδρης|There from his seat|
 
-
 ---
-**Commentary**
+Reconstructions
 
-|Source|Commentary|Translation|
-|:---|:---|:---|
-|Kotiaeus|πρῶτον μὲν οὖν τί ἂν καθέζοιτο τὸν αγκῶνα τετρωμένος ἔπειτα οὕτως ἔρρωται ὤστε ολίγον ὕστερον κάπρον ἀποσφάττειν| So first, why would he be sitting wounded in his elbow and then became so strong that in a little time he kills a boar.|
-|Epaphroditus (Venetus B)|ἐπαφρόδιτος δέ φησιν ὅτι καθεζόμενος ἐδημηγόρει ὅπως μὴ ἕκπυστοι οἱ μῦθοι γένωνται ταπεινοὶ ὄντες,ἢ ὅτι τὸ τραῦμα αὐτὸν ἵστασθαι οὐκ ἐᾶι|And Epaphroditus says that he (Agamemnon) was speaking sitting down so that his words would not be heard, (the words) being lowly, or that his injury does not allow him to stand|
+|    |    |   
+|:---|:---|
+|τοῖσι δὲ καὶ μετέειπεν ἄναξ ἀνδρῶν αγαμεμνων|αὐτόθεν ἐξ έδρης, οὐδ' ἐν μέσσοισιν ἀναστάς|
+|τοῖσι δ' ἀνισταμενος μετέφη κρέιων αγαμεμνων|μηνίν ἀναστεναχων καὶ ὐφ έλκεος ἄλγεα πάσχων|
+|τοῖσι δ' ἀνισταμενος μετεφη κρεῖων αγαμεμνων|<span style="color:red">μηνίν ἀναστεναχων καὶ ὐφ έλκεος ἄλγεα πάσχων</span>|
+|τοῖσι δὲ καὶ μετέειπεν ἂναξ ἀνδρων αγαμεμνων|ἀυτοθεν ἐξ έδρης ὁ δ᾽έν μέσσοισι ἀναστάς|
+|<span style="color:red">τοῖσι δὲ καὶ μετέειπεν ἄναξ ἀνδρῶν αγαμεμνων</span>|ἀυτόθι εξ έδρης  οὐδ' ἐν μέσσοισιν ἀναστάς| 
+
+
+
 
 
 
@@ -104,25 +112,24 @@ Concerning the commentary by multiple editors and editions what implications are
 ---
 
 - evident multiformity
-- puzzled editors
-- scholarly arguments of such a crucial moment in the *Iliad* could be reexamined
-
-
-
+- puzzled editors (ancient and modern)
+- scholarly opinions of such a crucial moment in the *Iliad* could be reexamined
 
 
 
 ---
-
+  
 #Future Paths of Inquiry
 
 ---
 
-- there is decidedly more left to research, explore, and learn about this particular example of multiformity
-- one particularly notable way in which we would like to continue this research is to expand our context 
-- additionally we think it would be particularly valuable to do similar and reproducible research of this kind regarding minute multiform examples
-- Venetus B also mentions the possibility of **word**, compeltely changing the argument. Where else do we see this?
+##Expand our context 
+- The Venetus B scholia also mention the multiforms **εσταοτος** and **εσταοτως**
+- look for similar phraseology in other passages of Homeric texts.  Are there trends?
 
+##Implications
+- Agamemnon's character
+- 
 
 
 
